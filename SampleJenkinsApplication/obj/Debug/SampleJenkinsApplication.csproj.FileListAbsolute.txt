@@ -1,0 +1,7 @@
+F:\Git Practice\SampleJenkinsApplication\SampleJenkinsApplication\bin\Debug\SampleJenkinsApplication.exe.config
+F:\Git Practice\SampleJenkinsApplication\SampleJenkinsApplication\bin\Debug\SampleJenkinsApplication.exe
+F:\Git Practice\SampleJenkinsApplication\SampleJenkinsApplication\bin\Debug\SampleJenkinsApplication.pdb
+F:\Git Practice\SampleJenkinsApplication\SampleJenkinsApplication\obj\Debug\SampleJenkinsApplication.csprojAssemblyReference.cache
+F:\Git Practice\SampleJenkinsApplication\SampleJenkinsApplication\obj\Debug\SampleJenkinsApplication.csproj.CoreCompileInputs.cache
+F:\Git Practice\SampleJenkinsApplication\SampleJenkinsApplication\obj\Debug\SampleJenkinsApplication.exe
+F:\Git Practice\SampleJenkinsApplication\SampleJenkinsApplication\obj\Debug\SampleJenkinsApplication.pdb
